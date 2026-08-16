@@ -7,8 +7,10 @@
 
 | 날짜 | 학습 내용 |
 |---|---|
-| 20260803 | [VS Code, Git, Python 설치](./개발환경구성/20260803.md) |
-| 20260806 | [Jupyter 설치](./개발환경구성/20260806.md) |
+| 20260803 | [VS Code, Git 설치와 GitHub 가입](./개발환경구성/20260803.md) |
+| 20260805 | [SourceTree 설치](./개발환경구성/20260805.md) |
+| 20260806 | [UV, Python, Jupyter 설치](./개발환경구성/20260806-1.md) |
+| 20260806 | [Python 가상환경 만들기](./개발환경구성/20260806-2.md) |
 
 </details>
 
@@ -22,7 +24,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary> Python</summary>
 
 | 날짜 | 학습 내용 |
