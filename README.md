@@ -24,7 +24,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary> Python</summary>
 
 | 날짜 | 학습 내용 |
@@ -42,12 +42,24 @@
 | 20260821 | [수정 예정](./Python/20260821.md) |
 </details>
 
-<details open>
+<details >
 <summary> 머신러닝</summary>
 
 | 날짜 | 학습 내용 |
 |---|---|
 | 20260831 | [PyTorch 기초 및 다층 퍼셉트론(MLP) 패션 이미지 분류 모델 구현과 원리(신경망 구조, 활성화 함수, 가중치와 옵티마이저, 역전파, 조기 종료)](./머신러닝/20260831.md) |
+
+</details>
+
+<details >
+<summary> SQL & 데이터베이스</summary>
+
+| 날짜 | 학습 내용 |
+|---|---|
+| 20260902 | [SQL & Data 기초 및 관계형 데이터베이스 구조
+](./SQL&데이터베이스/20260902.md) |
+| 20260903 | [작성예정](./SQL/20260903.md) |
+| 20260904 | [작성예정](./SQL/20260904.md) |
 
 </details>
 
